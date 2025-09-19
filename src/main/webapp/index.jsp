@@ -6,7 +6,7 @@
   <title>SRCAS</title>
   <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<>
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
